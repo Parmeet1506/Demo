@@ -1,0 +1,39 @@
+# Compiled class files
+*.class
+
+# Spring Boot
+target/
+.classpath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+log4j.log
+
+# Database
+*.db
+*.sqlite
+
+# Build
+build/
+*.jar
+*.war
+*.ear
+
+# Maven
+.m2/
